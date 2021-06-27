@@ -7,6 +7,7 @@ namespace Program.Commands
     static class ListCommand
     {
         private static List<Model> Models;
+
         public static void Handle(List<Model> models = null)
         {
             Models = models ?? Database.All();
