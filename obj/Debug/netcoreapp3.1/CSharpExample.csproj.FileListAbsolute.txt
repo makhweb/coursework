@@ -1,0 +1,13 @@
+C:\Users\user\Projects\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.exe
+C:\Users\user\Projects\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.deps.json
+C:\Users\user\Projects\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.runtimeconfig.json
+C:\Users\user\Projects\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.runtimeconfig.dev.json
+C:\Users\user\Projects\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.dll
+C:\Users\user\Projects\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.pdb
+C:\Users\user\Projects\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.csprojAssemblyReference.cache
+C:\Users\user\Projects\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.AssemblyInfoInputs.cache
+C:\Users\user\Projects\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.AssemblyInfo.cs
+C:\Users\user\Projects\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.csproj.CoreCompileInputs.cache
+C:\Users\user\Projects\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.dll
+C:\Users\user\Projects\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.pdb
+C:\Users\user\Projects\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.genruntimeconfig.cache
